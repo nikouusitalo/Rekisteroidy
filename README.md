@@ -1,2 +1,2 @@
-# Rekisteroidy
+# Rekisteröidy
 Harjoittelu projekti
